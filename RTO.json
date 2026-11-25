@@ -1,0 +1,95 @@
+{
+ "code": "M520K",
+ "connector": "RTO-144",
+ "type": "Stereo Input",
+ "series": null,
+ "contacts": "34 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M520A",
+ "pins": [
+  {
+   "pin": "2",
+   "signal": "48 VOLT MICROPHONE PHANTOM POWER",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - M520A_Page_16.jpg",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON RETURN FOR THE +/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - M520A_Page_16.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "COMMON RETURN FOR THE +/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - M520A_Page_16.jpg",
+   "page": 1
+  },
+  {
+   "pin": "33",
+   "signal": "OUTPUT FROM THIS AMPLIFIER",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+   "page": 14
+  },
+  {
+   "pin": "34",
+   "signal": "OUTPUT FROM THIS AMPLIFIER",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+   "page": 14
+  },
+  {
+   "pin": "V",
+   "signal": "LOGIC CONTROL COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - M520A_Page_16.jpg",
+   "page": 1
+  },
+  {
+   "pin": "X",
+   "signal": "COMMON RETURN FOR THE +/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - M520A_Page_16.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - M520A_Page_16.jpg",
+  "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf"
+ ]
+}

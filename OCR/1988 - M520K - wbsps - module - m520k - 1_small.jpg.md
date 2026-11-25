@@ -1,5 +1,5 @@
 # 1988 - M520K - wbsps - module - m520k - 1_small.jpg
-Wiki page: [M520K](../../../PAGES/M520K.md)
+Wiki page: [M520K](../../../../PAGES/M520K.md)
 
 
 - **Year:** 1988 (module estimate (family))
@@ -14,7 +14,7 @@ Wiki page: [M520K](../../../PAGES/M520K.md)
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M520K/1988 - M520K - wbsps - module - m520k - 1_small.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M520K/PHOTOS/1988 - M520K - wbsps - module - m520k - 1_small.jpg",
  "sha256": "7f1b16d6cfd700068611cae2cfa573d26804a64a2a6e12017e11b5baff7f78f6",
  "kind": "module",
  "models": [
