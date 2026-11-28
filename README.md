@@ -1,6 +1,6 @@
 # M520K Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M520K, 1988|21. Wiki page: [M520K on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M520K.html)
+Ward-Beck Systems M520K, 1988|21. Wiki page: [M520K on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520K-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
